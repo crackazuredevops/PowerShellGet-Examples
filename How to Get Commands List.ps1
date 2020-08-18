@@ -1,0 +1,3 @@
+﻿#Get Cmdlets
+
+Get-Command
